@@ -1,3 +1,8 @@
+== SPRING BOOT
+
+Spring Boot es una infraestructura ligera que elimina la mayor parte del trabajo de configurar las aplicaciones basadas en Spring.
+
+
 :spring_boot_version: 2.5.0
 :spring-boot: https://github.com/spring-projects/spring-boot
 :toc:
